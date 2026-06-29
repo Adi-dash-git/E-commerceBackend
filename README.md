@@ -50,7 +50,7 @@ A scalable, full-stack e-commerce platform built using **Java, Spring Boot, Reac
 * Git
 * GitHub
 * Postman
-* IntelliJ IDEA
+* Eclipse
 * VS Code
 
 ---
@@ -188,38 +188,34 @@ SalesSavvy/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/SalesSavvy.git
+git clone https://github.com/Adi-dash-git/E-commerceBackend.git
 ```
 
 ### Backend
 
 ```bash
-cd SalesSavvyBackend
-mvn clean install
-mvn spring-boot:run
+E-commerceBackend
 ```
 
 ### Frontend
 
 ```bash
-cd SalesSavvyFrontend
-npm install
-npm start
+E-commerceFrontend
 ```
 
 ---
 
-## 🎯 Future Enhancements
+## 🚀 Future Enhancements 🎯
 
-* Wishlist
-* Product Reviews & Ratings
-* Inventory Management
-* Coupon & Discount System
-* Email Notifications
-* Analytics Dashboard
-* Docker Deployment
-* CI/CD Pipeline
-* Microservices Migration
+- ❤️ Wishlist
+- ⭐ Product Reviews & Ratings
+- 📦 Inventory Management
+- 🎟️ Coupon & Discount System
+- 📧 Email Notifications
+- 📊 Analytics Dashboard
+- 🐳 Docker Deployment
+- ⚙️ CI/CD Pipeline
+- ☁️ Microservices Migration
 
 ---
 
